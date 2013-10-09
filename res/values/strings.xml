@@ -7,5 +7,7 @@
     <string name="signin_text">To user Highlight, please sign in with one of the services below:</string>
     <string name="signin_reason_text">Why not email?</string>
     <string name="why_text">Highlight is based on real identity and mutual friends. Using these services allows us to showyou how you\'re connected to the people around you. It also makes it super easy to create a Highlight profile</string>
+    <string name="strFacebookConnect">Connect with Facebook</string>
+    <string name="strLinkedInConnect">Connect with LinkedIn</string>
 
 </resources>
