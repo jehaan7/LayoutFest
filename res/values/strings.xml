@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LayoutFest</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="signin_text">To user Highlight, please sign in with one of the services below:</string>
+    <string name="signin_reason_text">Why not email?</string>
+    <string name="why_text">Highlight is based on real identity and mutual friends. Using these services allows us to showyou how you\'re connected to the people around you. It also makes it super easy to create a Highlight profile</string>
+
+</resources>
